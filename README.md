@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kaushik Vala](https://durgeshsamariya.github.io) 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am a third year Machine Learning Ph.D. candidate at [Gujarat Technogical University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
@@ -12,7 +12,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
  **I am open to**:
 
 - any collobration work,
-- machine learning projects(development or research),
+- web develoment projects(development or research),
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
@@ -68,15 +68,15 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?usernameKaushik1707a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
 ----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-profile-trophy.vercel.app/?username=Kaushik1707&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=Kaushik1707&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaushik1707&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik1707&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
 <!--
