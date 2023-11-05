@@ -75,7 +75,7 @@ I am a third year Machine Learning Ph.D. candidate at [Gujarat Technogical Unive
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=Kaushik1707&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=Kaushik1707&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaushik1707&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Kaushik1707&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik1707&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
